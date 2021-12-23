@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'Tối noel đi chơi với em nhaaaa.',
     btnAccept: 'Dạaaaaaaa <3',
     messLink: 'https://www.facebook.com/thuan.hothe.37 }
+ 
